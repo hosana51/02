@@ -5,9 +5,9 @@
 header:
   # Profile information
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-  email: steve.doe@website.com
-  phone: 0123 456 78900
-  website: https://yourwebsite.com
+  email: hosanajessica515@gmail.com
+  phone: 0090394
+  website: https://www.youtube.com/watch?v=skHbZBsS7hM
   linkedin: stevedoe
   github: stevedoe
   gitlab:
@@ -19,12 +19,7 @@ header:
 
 
 languages:
-  - idiom: English
-    level: Native
-  - idiom: French
-    level: Professional
-  - idiom: Spanish
-    level: Professional
+  - idiom: Português
 
 interests:
   - name: Climbing
@@ -35,36 +30,19 @@ interests:
     link:
 
 summary: |
-  Summarise your career here. You can make a PDF version of your resume using our free Sketch template here.
-  Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-  Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-  Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-  Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-  Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget.
+  A aprender a modificar um currículo utilizando o Github, não só a modificar como muitas outras coisas que pode aprender através desse site. portanto esse 
+  site tem varias funções que podemos utilizar como html e javas. 
 
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Curso de Informática
+    instituição: OSDB
+    tempo: 2022 - 2022
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Curso de informática basica, com intuito de se aperfeiçoar .
+  - Escola: Escola Estadual de Ensino Médio em Tempo Integral Desembargardor Silvério Soares - EEEMTIDSS
+    time: 2017 - 2019
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Ensino médio completo.
 
 experiences:
   - role: Lead Developer
@@ -164,13 +142,18 @@ awards:
 projects:
   title: Projects
   intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Era uma vez um pudim apaixonado
+Estava andando nas ruas quando foi atropelado
+Puft
+Pudim amassado
+Pudim amassado
+Pudim amassado
+Pudim amassado morreu
+Boa Noite, Doce Pudim.
   assignments:
     - title: Velocity
       link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      tagline: "Sobre um pudim."
 
     - title: DevStudio
       link: "#"
@@ -212,27 +195,25 @@ publications:
       conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-  - category: Frontend
+  - category: comida que gosto
     tools:
-      - name: Angular
+      - name: Bolo de Chocolate
         level: 98%
-      - name: React
+      - name: Suco de Maracujá
         level: 98%
-      - name: JavaScript
+      - name: Cuscuz
         level: 98%
-      - name: Node.js
+      - name: Baião de Dois
         level: 95%
-      - name: HTML/CSS/SASS/LESS
+      - name: Lasanha
         level: 85%
-  - category: Backend
-    tools:
-      - name: Python/Django
+      - name: Torta de Frango
         level: 95%
-      - name: Ruby/Rails
+      - name: Torta de Limão
         level: 98%
-      - name: PHP
+      - name: Pizza
         level: 87%
-      - name: WordPress/Shopify
+      - name: Bebidas
         level: 92%
   - category: others
     tools:
