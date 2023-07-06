@@ -16,8 +16,10 @@ header:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
+-
 languages:
   - idiom: Português
+-
 interests:
   - name: Climbing
     link:
@@ -25,6 +27,7 @@ interests:
     link:
   - name: Cooking
     link:
+-
 summary: |
   A aprender a modificar um currículo utilizando o Github, não só a modificar como muitas outras coisas que pode aprender através desse site. portanto esse 
   site tem varias funções que podemos utilizar como html e javas. 
