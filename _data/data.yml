@@ -142,13 +142,13 @@ projects:
   title: Projects
   intro: >
     Era uma vez um pudim apaixonado
-Estava andando nas ruas quando foi atropelado
-Puft
-Pudim amassado
-Pudim amassado
-Pudim amassado
-Pudim amassado morreu
-Boa Noite, Doce Pudim.
+    Estava andando nas ruas quando foi atropelado
+    Puft
+    Pudim amassado
+    Pudim amassado
+    Pudim amassado
+    Pudim amassado morreu
+    Boa Noite, Doce Pudim.
   assignments:
     - title: Velocity
       link: "#hook"
